@@ -9,6 +9,8 @@ This issue has been known about and used for some time ([2],[3],[4]) by test app
 
 This PoC app simply wraps existing code already made public so that the issue can be validated and countermeasures designed while users wait for the patch.
 
+[Download APK](https://github.com/thomascannon/android-sms-spoof/SMSSpoofer-v1.apk/qr_code)
+
 [1]: http://www.csc.ncsu.edu/faculty/jiang/smishing.html
 [2]: http://d.hatena.ne.jp/thorikawa/20100930/p1
 [3]: http://blog.dev001.net/post/14085892020/android-generate-incoming-sms-from-within-your-app
