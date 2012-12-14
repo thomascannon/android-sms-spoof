@@ -7,6 +7,8 @@ On 2012-10-30 NCSU notified Google about a "Smishing" vulnerability ([1]) in And
 
 This issue has been known about and used for some time ([2],[3],[4]) by test apps and apps designed to intercept, alter and pass on SMS messages. NCSU were the first to publically highlight the security vulnerability that arises from this functionality, namely that a user can be tricked into taking action on a faked SMS message.
 
+Google commited a fix to Android 4.2_r1 a few days after notification on 2012-11-02.
+
 This PoC app simply wraps existing code already made public so that the issue can be validated and countermeasures designed while users wait for the patch.
 
 [Download APK](https://github.com/thomascannon/android-sms-spoof/SMSSpoofer-v1.apk/qr_code)
